@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\OOP\19.EncapsulationRealizedPerAccessModifiers\bin\Debug\netcoreapp3.1\19.EncapsulationRealizedPerAccessModifiers.exe
+C:\Users\Bla\source\repos\OOP\19.EncapsulationRealizedPerAccessModifiers\bin\Debug\netcoreapp3.1\19.EncapsulationRealizedPerAccessModifiers.deps.json
+C:\Users\Bla\source\repos\OOP\19.EncapsulationRealizedPerAccessModifiers\bin\Debug\netcoreapp3.1\19.EncapsulationRealizedPerAccessModifiers.runtimeconfig.json
+C:\Users\Bla\source\repos\OOP\19.EncapsulationRealizedPerAccessModifiers\bin\Debug\netcoreapp3.1\19.EncapsulationRealizedPerAccessModifiers.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\OOP\19.EncapsulationRealizedPerAccessModifiers\bin\Debug\netcoreapp3.1\19.EncapsulationRealizedPerAccessModifiers.dll
+C:\Users\Bla\source\repos\OOP\19.EncapsulationRealizedPerAccessModifiers\bin\Debug\netcoreapp3.1\19.EncapsulationRealizedPerAccessModifiers.pdb
+C:\Users\Bla\source\repos\OOP\19.EncapsulationRealizedPerAccessModifiers\obj\Debug\netcoreapp3.1\19.EncapsulationRealizedPerAccessModifiers.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\OOP\19.EncapsulationRealizedPerAccessModifiers\obj\Debug\netcoreapp3.1\19.EncapsulationRealizedPerAccessModifiers.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\OOP\19.EncapsulationRealizedPerAccessModifiers\obj\Debug\netcoreapp3.1\19.EncapsulationRealizedPerAccessModifiers.AssemblyInfo.cs
+C:\Users\Bla\source\repos\OOP\19.EncapsulationRealizedPerAccessModifiers\obj\Debug\netcoreapp3.1\19.EncapsulationRealizedPerAccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\OOP\19.EncapsulationRealizedPerAccessModifiers\obj\Debug\netcoreapp3.1\19.EncapsulationRealizedPerAccessModifiers.dll
+C:\Users\Bla\source\repos\OOP\19.EncapsulationRealizedPerAccessModifiers\obj\Debug\netcoreapp3.1\19.EncapsulationRealizedPerAccessModifiers.pdb
+C:\Users\Bla\source\repos\OOP\19.EncapsulationRealizedPerAccessModifiers\obj\Debug\netcoreapp3.1\19.EncapsulationRealizedPerAccessModifiers.genruntimeconfig.cache
